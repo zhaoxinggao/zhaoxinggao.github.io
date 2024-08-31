@@ -43,7 +43,7 @@ Publications
 ======
 ## Journal Paper
 
-<ol>
+ <ol>
 <li>Gao, Z., and Tsay, R.S. (2024+). Supervised Dynamic PCA: Linear Dynamic Forecasting with Many Predictors. <strong>Journal of the American Statistical Association.</strong> Forthcoming. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2370592">[Link]</a></li> 
 <li>Gao, Z., and Tsay, R.S. (2023). Divide-and-Conquer: A Distributed Hierarchical Factor Approach to Modeling Large-Scale Time Series Data. <strong>Journal of the American Statistical Association</strong>, 118(544), 2698-2711. <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2071279">[Link]</li>
 <li>Gao, Z., Mi, Z., and Ling, S. (2023). Testing threshold effect in single-index models.  Statistics and Its Interface, 16(1), 43-56.<a href="https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a004/index.php">[Link]</a> </li>
@@ -56,7 +56,7 @@ Publications
 <li>Gao, Z., Ling, S., and Tong, H. (2018). Tests for TAR models vs. STAR models–a separate family of hypotheses approach. <strong>Statistica Sinica</strong>, 28(4), 2857–2883. <a href="https://www.jstor.org/stable/26511241">[Link]</a></li>
 <li>Wu, Z.(指导学生), Chen, X., and Gao, Z. (2023). Bayesian Non-parametric Method for Decision Support: Forecasting Online Product Sales. <strong>Decision Support Systems</strong>, 174, 114019 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167923623000945">[Link]</a></li>
 <li>Fang, P.(指导学生), Gao, Z.(通讯), and Tsay, R.S. (2023). Supervised Kernel Principal Component Analysis for Forecasting. <strong>Finance Research Letters</strong>, 58, 104292 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1544612323006645">[Link]</a></li>
-</ol>
+  </ol>
  
   
 Talks
