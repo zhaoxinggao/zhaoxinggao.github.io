@@ -21,7 +21,7 @@ repository               : "zhaoxinggao/zhaoxinggao.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zxgao.png"
+  avatar           : "profile.png"
   name             : "Zhaoxing Gao"
   pronouns         : # example: "she/her"  
   bio              : "Statistician and Data Scientist"
