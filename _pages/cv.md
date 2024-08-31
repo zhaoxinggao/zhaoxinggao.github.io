@@ -41,8 +41,6 @@ Work experience
 
 Publications
 ======
-## Journal Paper
-
 <ol>
 <li>Gao, Z., and Tsay, R.S. (2024+). Supervised Dynamic PCA: Linear Dynamic Forecasting with Many Predictors. <strong>Journal of the American Statistical Association.</strong> Forthcoming. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2370592">[Link]</a></li> 
 <li>Gao, Z., and Tsay, R.S. (2023). Divide-and-Conquer: A Distributed Hierarchical Factor Approach to Modeling Large-Scale Time Series Data. <strong>Journal of the American Statistical Association</strong>, 118(544), 2698-2711. <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2071279">[Link]</li>
