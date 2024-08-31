@@ -2,7 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 type: "Undergraduate/graduate courses"
-permalink: /teaching
+permalink: /teaching/
 venue: ""
 date: 2024-09-01
 #location: "City, Country"
