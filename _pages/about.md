@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Professor of Statistics at the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Science and Technology of China](https://www.uestc.edu.cn/) in Chengdu. Before this, I was a ZJU100 Young Professor at the Center for Data Science of Zhejiang University, China. I obtained a Ph.D. in Mathematics from the Hong Kong University of Science and Technology, and worked as a postdoctoral researcher at the London School of Economics and Political Science in the United Kingdom from 2016 to 2017 and from 2017 to 2019 at the University of Chicago Booth School of Business in the United States. Before returning to China, I worked as a tenure-track assistant professor in the Department of Mathematics of Lehigh University in the United States from 2019 to 2021. 
+I am currently a Professor of Statistics at the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Science and Technology of China](https://www.uestc.edu.cn/) in Chengdu, China. Prior to this, I held the position of ZJU100 Young Professor at the Center for Data Science, Zhejiang University. I earned my Ph.D. in Mathematics from the Hong Kong University of Science and Technology, under the supervision of Prof. Shiqing Ling. My postdoctoral research took place at the London School of Economics and Political Science (2016-2017) with Prof. Qiwei Yao, followed by a position at the University of Chicago Booth School of Business (2017-2019) under the mentorship of Prof. Ruey Tsay. Before returning to China, I served as a tenure-track assistant professor in the Department of Mathematics at Lehigh University (2019-2021).
 
 
 A data-driven personal website
