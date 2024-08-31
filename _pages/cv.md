@@ -61,9 +61,31 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+* Speaker,  Recent Advances in Time Series Analysis,  Chicago, USA, May 2023
+
+* Speaker, Tsinghua Forum for Yong Statisticians, Beijing, China, Oct. 2021
+
+* Speaker, Joint Statistical Meetings, Denver, Colorado, USA,  July, 2019
+
+* Speaker, Econometrics and Statistics  Lunch Seminar, University of Chicago Booth School of Business, Chicago, USA, Mar, 2018
+
+* Participant, 2017 NBER-NSF Time Series Conference,  Kellogg School of Management, Northwestern University, USA, Sep,2017
+
+
+* Participant, Fourth Economic Networks and Finance Conference, LSE, UK,  Dec 2016.
+
+* Invited speaker, Complex Time Series Modelling and Forecasting: Dynamic Network, Spatio-temporal Data, and Functional Processes. {\bf Sanya, Hainan, China. Jan, 2018
+
+* Speaker, Time Series and Machine Learning Group Seminar,  London School of Economics, London, UK,  Nov, 2016
+
+* Invited speaker, From change-point detection to functional data, in honor of the 60th birthday of Professor Lajos Hovath, Graz University of Technology, Graz, Austria,  Oct, 2016
+
+* Invited speaker, Tsinghua-Sanya International Workshop on Time Series Econometrics, Sanya, Hainan, China, Dec, 2015
+
+* Invited speaker, CRiSM Workshop: Non-likelihood Based Statistical Modelling. {\bf The University of Warwick, Coventry, UK, Sep, 2015
+
+* Invited speaker, 5th Annual IMS Sponsored Workshop in Finance, Insurance, Probability and Statistics,  Rutgers University, USA,  June,2015
   
 Teaching
 ======
