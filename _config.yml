@@ -12,7 +12,7 @@ title                    : "Zhaoxing Gao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhaoxing Gao"
 description              : &description "Professor of Statistics"
-url                      : https://https://zhaoxinggao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhaoxinggao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhaoxinggao/zhaoxinggao.github.io/"
 
