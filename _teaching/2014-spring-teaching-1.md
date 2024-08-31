@@ -13,7 +13,7 @@ date: 2024-09-01
 Teaching
 ======
  * Instructor--Zhejiang University
-   * Time Series Analysis for Management Science, Fall, 08/2021--Now
+   * Time Series Analysis for Management Science, Fall, 08/2021--12/2024
    
  * Instructor--Lehigh University
    * MATH 231 Probability and Statistics  08/2019--12/2019
