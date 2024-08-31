@@ -44,7 +44,7 @@ Publications
 ## Journal Paper
 
 <ol>
-<li>Gao, Z., and Tsay, R.S. (2024+). Supervised Dynamic PCA: Linear Dynamic Forecasting with Many Predictors. Journal of the American Statistical Association. Forthcoming.</li>
+<li>Gao, Z., and Tsay, R.S. (2024+). [Supervised Dynamic PCA: Linear Dynamic Forecasting with Many Predictors](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2370592). Journal of the American Statistical Association. Forthcoming.</li>
 <li>Gao, Z., and Tsay, R.S. (2022+). Divide-and-Conquer: A Distributed Hierarchical Factor Approach to Modeling Large-Scale Time Series Data. Journal of the American Statistical Association. Forthcoming.</li>
 <li>Gao, Z., Mi, Z., and Ling, S. (2021+). Testing threshold effect in single-index models.  Statistics and Its Interface. Forthcoming. </li>
 <li>Gao, Z. and Tsay, R. S. (2021+). A two-way transformed factor model for matrix-variate time series.  Econometrics and Statistics. Forthcoming.</li>
