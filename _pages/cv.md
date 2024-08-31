@@ -11,41 +11,68 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics (Statistics), Hong Kong University of Science and Technology, Hong Kong, China, 2016
+#* M.S. in Jekyll, GitHub University, 2014
+* B.S. in Mathematics, Sichuan University, China, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024-now: Professor of Statistics
+  * University of Electronic Science and Technology of China
+  #* Duties includes: Updates and improvements to template
+  #* Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2021-June 2024: ZJU100 Young Professor
+  * Center for Data Science, Zhejiang University
+  #* Duties included: Merging pull requests
+  #* Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2019-July 2021: Assistant Professor of Statistics
+  * Lehigh University, USA
+  #* Duties included: Tagging issues
+  #* Supervisor: Professor Git
+
+* May 2017-Aug 2019: Post-Doc
+  * University of Chicago Booth School of Business, USA
+  #* Duties included: Tagging issues
+  #* Supervisor: Professor Git
+
+* Sep 2016-April 2017: Post-Doc
+  * London School of Economics and Political Science, UK
+  #* Duties included: Tagging issues
+  #* Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ # <ul>{% for post in site.publications reversed %}
+  #  {% include archive-single-cv.html %}
+ # {% endfor %}</ul>
+ ## Journal Paper
+
+<ol>
+<li>Gao, Z., and Tsay, R.S. (2024+). Supervised Dynamic PCA: Linear Dynamic Forecasting with Many Predictors. Journal of the American Statistical Association. Forthcoming.</li>
+<li>Gao, Z., and Tsay, R.S. (2022+). Divide-and-Conquer: A Distributed Hierarchical Factor Approach to Modeling Large-Scale Time Series Data. Journal of the American Statistical Association. Forthcoming.</li>
+<li>Gao, Z., Mi, Z., and Ling, S. (2021+). Testing threshold effect in single-index models.  Statistics and Its Interface. Forthcoming. </li>
+<li>Gao, Z. and Tsay, R. S. (2021+). A two-way transformed factor model for matrix-variate time series.  Econometrics and Statistics. Forthcoming.</li>
+<li>Gao, Z. and Tsay, R. S. (2021+). Modeling high-dimensional time series: a factor model with dynamically dependent factors and diverging eigenvalues. Journal of the American Statistical Association. Forthcoming.</li>
+<li>Gao, Z. and Tsay, R. S. (2021+). Modeling high-dimensional unit-root time series. International Journal of Forecasting. Forthcoming.</li>
+<li>Gao, Z., Ma, Y., Wang, H. and Yao, Q. (2019). Banded spatio-temporal autoregressions. Journal of Econometrics, 208(1), 211–230.</li>
+<li>Gao, Z. and Tsay, R. S. (2019). A structural-factor approach for modeling high-dimensional time series and space-time data. Journal of Time Series Analysis, 40, 343–362. </li>
+<li>Gao, Z., and Ling, S. (2019). Statistical inference for structurally changed threshold autoregressive models. Statistica Sinica, 29(4), 1803–1829.</li>
+<li>Gao, Z., Ling, S., and Tong, H. (2018). Tests for TAR models vs. STAR models–a separate family of hypotheses approach. Statistica Sinica, 28(4), 2857–2883.</li>
+<li>Wu, Z.(指导学生), Chen, X., and Gao, Z. (2023). Bayesian Non-parametric Method for Decision Support: Forecasting Online Product Sales. Decision Support Systems. Forthcoming.</li>
+<li>Fang, P.(指导学生), Gao, Z.(通讯), and Tsay, R.S. (2023+). Supervised Kernel Principal Component Analysis for Forecasting. Finance Research Letters. Forthcoming.</li>
+</ol>
+ 
   
 Talks
 ======
