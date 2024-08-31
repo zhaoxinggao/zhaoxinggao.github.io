@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate/graduate courses"
 permalink: /teaching/teaching-exp
 venue: ""
-date: 2024-01-01
-location: "City, Country"
+date: 2024-09-01
+#location: "City, Country"
 ---
 
 Teaching
@@ -19,7 +19,6 @@ Teaching
 
  * Teaching Assistant--University of Chicago Booth School of Business
    * Business 41914 (MBA\&PhD): Multivariate Time Series Analysis 03/2019--6/2019
-
 
  * Co-instructor--London School of Economics Winter 2016
    * ST 425 Statistical Inference: Principles, Methods and Computation 09/2016--12/2016
