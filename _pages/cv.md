@@ -12,35 +12,30 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics (Statistics), Hong Kong University of Science and Technology, Hong Kong, China, 2016
-#* M.S. in Jekyll, GitHub University, 2014
+
 * B.S. in Mathematics, Sichuan University, China, 2012
 
 Work experience
 ======
 * July 2024-now: Professor of Statistics
   * University of Electronic Science and Technology of China
-  #* Duties includes: Updates and improvements to template
-  #* Supervisor: The Users
+
 
 * July 2021-June 2024: ZJU100 Young Professor
   * Center for Data Science, Zhejiang University
-  #* Duties included: Merging pull requests
-  #* Supervisor: Professor Hub
+    
 
 * Aug 2019-July 2021: Assistant Professor of Statistics
   * Lehigh University, USA
-  #* Duties included: Tagging issues
-  #* Supervisor: Professor Git
+    
 
 * May 2017-Aug 2019: Post-Doc
   * University of Chicago Booth School of Business, USA
-  #* Duties included: Tagging issues
-  #* Supervisor: Professor Git
+  * Mentor: Professor [Qiwei Yao](https://stats.lse.ac.uk/q.yao/)
 
 * Sep 2016-April 2017: Post-Doc
   * London School of Economics and Political Science, UK
-  #* Duties included: Tagging issues
-  #* Supervisor: Professor Git
+  * Mentor: Professor [Ruey Tsay](https://www.chicagobooth.edu/faculty/emeriti/ruey-s-tsay)
   
 #Skills
 #======
