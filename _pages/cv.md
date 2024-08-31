@@ -37,21 +37,11 @@ Work experience
   * London School of Economics and Political Science, UK
   * Mentor: Professor [Ruey Tsay](https://www.chicagobooth.edu/faculty/emeriti/ruey-s-tsay)
   
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
+
 
 Publications
 ======
- # <ul>{% for post in site.publications reversed %}
-  #  {% include archive-single-cv.html %}
- # {% endfor %}</ul>
- ## Journal Paper
+## Journal Paper
 
 <ol>
 <li>Gao, Z., and Tsay, R.S. (2024+). Supervised Dynamic PCA: Linear Dynamic Forecasting with Many Predictors. Journal of the American Statistical Association. Forthcoming.</li>
