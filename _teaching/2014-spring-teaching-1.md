@@ -7,7 +7,7 @@ permalink: /teaching/
 date: 2024-09-01
 #location: "City, Country"
 ---
-![image](https://github.com/user-attachments/assets/5e5bb6db-ad42-4344-8828-fe4a95961e91)
+
 
 
 Teaching
