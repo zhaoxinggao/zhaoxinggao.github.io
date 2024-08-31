@@ -56,7 +56,6 @@ Publications
 <li>Fang, P.(指导学生), Gao, Z.(通讯), and Tsay, R.S. (2023). Supervised Kernel Principal Component Analysis for Forecasting. <strong>Finance Research Letters</strong>, 58, 104292 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1544612323006645">[Link]</a></li>
 </ol>
  
-  
 Talks
 ======
 
@@ -69,7 +68,6 @@ Talks
 * Speaker, Econometrics and Statistics  Lunch Seminar, University of Chicago Booth School of Business, Chicago, USA, Mar, 2018
 
 * Participant, 2017 NBER-NSF Time Series Conference,  Kellogg School of Management, Northwestern University, USA, Sep,2017
-
 
 * Participant, Fourth Economic Networks and Finance Conference, LSE, UK,  Dec 2016.
 
@@ -84,6 +82,7 @@ Talks
 * Invited speaker, CRiSM Workshop: Non-likelihood Based Statistical Modelling. {\bf The University of Warwick, Coventry, UK, Sep, 2015
 
 * Invited speaker, 5th Annual IMS Sponsored Workshop in Finance, Insurance, Probability and Statistics,  Rutgers University, USA,  June,2015
+
   
 Teaching
 ======
