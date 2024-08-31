@@ -1,20 +1,32 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Undergraduate/graduate courses"
+permalink: /teaching/teaching-exp
+venue: ""
+date: 2024-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching
 ======
+ * Instructor--Zhejiang University
+   * Time Series Analysis for Management Science, Fall, 08/2021--Now
+   
+ * Instructor--Lehigh University
+   * MATH 231 Probability and Statistics  08/2019--12/2019
+   * MATH 338 Linear Models In Statistics 01/2020---05/2020
 
-Heading 2
-======
+ * Teaching Assistant--University of Chicago Booth School of Business
+   * Business 41914 (MBA\&PhD): Multivariate Time Series Analysis 03/2019--6/2019
 
-Heading 3
-======
+
+ * Co-instructor--London School of Economics Winter 2016
+   * ST 425 Statistical Inference: Principles, Methods and Computation 09/2016--12/2016
+ 
+ * Teaching Assistant--Hong Kong University of Science and Technology  2013--2016
+   * MATH 4824A Mathematical Models in Economics and Finance Spring 2013--2014
+   * MATH 2421 Probability  Fall 2014--2015
+   * MATH 1014 Calculus Spring 2014--2015
+   * MATH 4423 Nonparametric Statistics Fall 2015--2016
+   * MATH 4425 Introductory Time Series  Spring 2015--2016
