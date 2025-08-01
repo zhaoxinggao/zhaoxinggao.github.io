@@ -26,7 +26,7 @@ I am currently a Professor of Statistics at the [School of Mathematical Sciences
 
 My current research  direction mainly focuses on statistical analysis of high-dimensional and large-scale time series data including developing theory and machine learning methods with applications in environmental,  business, and economic modeling and forecasting. 
 
-I currently serve as an Associate Editor for [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131X?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQt0b86lu0A3gi6W7qK6epfq3yH-rMkyPIW4oxLvxEnK4aOxDSYc10caAn1oEALw_wcB&utm_campaign=R3MR425&utm_content=BusEconFinAcc&utm_medium=paidsearch&utm_source=google)
+I currently serve as an Associate Editor for [Journal of Business & Economic Statistics](https://www.tandfonline.com/journals/ubes20) and [Journal of Forecasting](https://onlinelibrary.wiley.com/journal/1099131X?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQt0b86lu0A3gi6W7qK6epfq3yH-rMkyPIW4oxLvxEnK4aOxDSYc10caAn1oEALw_wcB&utm_campaign=R3MR425&utm_content=BusEconFinAcc&utm_medium=paidsearch&utm_source=google)
 
 ## Contact
 
