@@ -42,7 +42,7 @@ Work experience
 Publications
 ======
 <ol>
-<li><strong>Gao, Z.</strong>, and Tsay, R.S. (2025+). Determination Of The Effective Cointegration Rank In High-dimensional Time-series Predictive Regressions. <strong>Journal of Business & Economic Statistics.</strong> Forthcoming. </li>
+<li>Fang, P., <strong>Gao, Z.</strong>, and Tsay, R.S. (2025+). Determination Of The Effective Cointegration Rank In High-dimensional Time-series Predictive Regressions. <strong>Journal of Business & Economic Statistics.</strong> Forthcoming. </li>
 <li> Jiang, H., Shen, B., Li, Yu. and <strong>Gao, Z.</strong> (2025+). Regularized Estimation of High-Dimensional Matrix-Variate Autoregressive Models. <strong>Statistica Sinica.</strong> Forthcoming. <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0341_na.pdf">[Link]</a></li> 
 <li><strong>Gao, Z.</strong>, and Tsay, R.S. (2025+). Denoising and Multilinear Projected-Estimation of High-Dimensional Matrix-Variate Factor Time Series. <strong>IEEE Transactions on Information Theory.</strong> Forthcoming. <a href="https://ieeexplore.ieee.org/document/11105506">[Link]</a></li> 
 <li>Gao, Z., and Tsay, R.S. (2024+). Supervised Dynamic PCA: Linear Dynamic Forecasting with Many Predictors. <strong>Journal of the American Statistical Association.</strong> Forthcoming. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2370592">[Link]</a></li> 
