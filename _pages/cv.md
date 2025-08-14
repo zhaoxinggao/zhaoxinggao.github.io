@@ -42,6 +42,9 @@ Work experience
 Publications
 ======
 <ol>
+<li><strong>Gao, Z.</strong>, and Tsay, R.S. (2025+). Determination Of The Effective Cointegration Rank In High-dimensional Time-series Predictive Regressions. <strong>Journal of Business & Economic Statistics.</strong> Forthcoming. </li>
+<li> Jiang, H., Shen, B., Li, Yu. and <strong>Gao, Z.</strong> (2025+). Regularized Estimation of High-Dimensional Matrix-Variate Autoregressive Models. <strong>Statistica Sinica.</strong> Forthcoming. <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0341_na.pdf">[Link]</a></li> 
+<li><strong>Gao, Z.</strong>, and Tsay, R.S. (2025+). Denoising and Multilinear Projected-Estimation of High-Dimensional Matrix-Variate Factor Time Series. <strong>IEEE Transactions on Information Theory.</strong> Forthcoming. <a href="https://ieeexplore.ieee.org/document/11105506">[Link]</a></li> 
 <li>Gao, Z., and Tsay, R.S. (2024+). Supervised Dynamic PCA: Linear Dynamic Forecasting with Many Predictors. <strong>Journal of the American Statistical Association.</strong> Forthcoming. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2370592">[Link]</a></li> 
 <li>Gao, Z., and Tsay, R.S. (2023). Divide-and-Conquer: A Distributed Hierarchical Factor Approach to Modeling Large-Scale Time Series Data. <strong>Journal of the American Statistical Association</strong>, 118(544), 2698-2711. <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2022.2071279">[Link]</a> </li>
 <li>Gao, Z., Mi, Z., and Ling, S. (2023). Testing threshold effect in single-index models.  <strong>Statistics and Its Interface</strong>, 16(1), 43-56. <a href="https://www.intlpress.com/site/pub/pages/journals/items/sii/content/vols/0016/0001/a004/index.php">[Link]</a> </li>
